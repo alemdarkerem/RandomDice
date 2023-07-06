@@ -1,2 +1,2 @@
 # RandomDice
-PRoject Completed.
+Project Completed.
